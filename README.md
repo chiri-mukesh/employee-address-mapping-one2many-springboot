@@ -1,2 +1,2 @@
 # employee-address-mapping-one2many-springboot
-# employee-address-mapping-one2many-springboot with service or serviceImple etc.
+# this project  without using service(I)  and serviceImple(C) etc.
